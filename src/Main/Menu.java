@@ -1,8 +1,4 @@
-/**
- * 
- */
 package Main;
-
 /**
  * @author Mick
  *
